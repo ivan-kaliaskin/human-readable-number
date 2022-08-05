@@ -47,7 +47,6 @@ module.exports = function toReadable(number) {
     7: 'seventy ',
     8: 'eighty ',
     9: 'ninety ',
-    10: 'none'
   }
 
 
